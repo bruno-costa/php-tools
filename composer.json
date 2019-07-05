@@ -1,0 +1,18 @@
+{
+    "name": "bruno-ac/php-tools",
+    "description": "A shot class library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno Avelino",
+            "email": "brunoac.cc@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yq\\": "src/"
+        }
+    },
+    "require": {}
+}
